@@ -90,3 +90,5 @@ y per ultim per a posar emojis ficarem ":joy:"
 :joy:
 
 
+[Si vols aprendre ordes basiques de git:]
+(https://github.com/Daaavidp8/Daaavidp8/blob/main/git.md)

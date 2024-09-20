@@ -14,19 +14,27 @@
 <p align="left">
     <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="60"/> 
-    </a>
+    </a>&nbsp;
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+    </a>&nbsp;
+    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
+  </a>&nbsp;
   
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  </a>&nbsp;
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="css" width="40" height="40"/> 
-  </a>
+  </a>&nbsp;
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="50" height="50"/> 
   </a>
@@ -35,22 +43,28 @@
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
+    
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" alt="laravel" width="70" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="70" height="40"/>
+  </a>&nbsp;
+  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> 
+  
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
+    
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+  </a>&nbsp;
+  
   <a href="https://www.jetbrains.com/es-es/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  
 </p>
 
 

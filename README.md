@@ -7,13 +7,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/david-picazo-rocafull-b53429202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-picazo-rocafull-b53429202/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/david-picazo-rocafull-b53429202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-picazo-rocafull-b53429202/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="60" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="60"/> 
     </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 

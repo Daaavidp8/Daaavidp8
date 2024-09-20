@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Picazo Rocafull</h1>
 <h3 align="center">Developer Student from Spain</h3>
 
-- 🌱 I’m currently learning **Laravel and React.**
+- 🌱 I’m currently studying Multiplatform development
 
 - 📫 How to reach me **davpicroc@alu.edu.gva.es**
 
@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" alt="laravel" width="70" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
-<a href="https://github.com/Daaavidp8/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/Daaavidp8/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/Daaavidp8"><img src="https://img.shields.io/github/stars/Daaavidp8" alt="Stars Badge"/></a>
 <a href="https://github.com/Daaavidp8/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/Daaavidp8/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/Daaavidp8/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/Daaavidp8/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Daaavidp8/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/Daaavidp8/awesome-github-profile-readme" alt="Issues Badge"/></a>

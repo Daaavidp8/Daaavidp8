@@ -12,8 +12,8 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-      <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+    <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> 
     </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 

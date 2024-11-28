@@ -44,6 +44,10 @@
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
+
+<a href="https://dotnet.microsoft.com/es-es/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="laravel" width="70" height="40"/>
+  </a>&nbsp;
     
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="70" height="40"/>

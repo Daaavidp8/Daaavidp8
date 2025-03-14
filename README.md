@@ -39,6 +39,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS3" width="50" height="50"/> 
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gist/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt="C#" width="50" height="50"/>
+  </a>
 </p>
 
 ---
